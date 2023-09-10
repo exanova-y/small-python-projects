@@ -1,2 +1,1 @@
-# turtle geometry
-A collection of geometrical patterns drawn using python turtle module.
+Random walk: A collection of geometrical patterns drawn using python turtle module.
